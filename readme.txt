@@ -1,8 +1,23 @@
-ip_idÎÄ¼ş
-	ip_id.sh:ÓÃÓÚ²âÊÔpingĞÅÏ¢
-	route.sh + linuxÃüÁî:Èç£¨route.sh "route -n | grep UG"£©
-Maxwell½Å±¾
-	maxwellµÄÆô¶¯½Å±¾£¬·ÀÖ¹maxwell¹Òµô£¨ÀàËÆÓÚk8sµÄĞ§¹û£©
-webReturnÎÄ¼ş
-	»ñµÃÍøÒ³µÄ·µ»ØÖµ£¨¿ÉÓÃÓÚ¼ì²âÍøÒ³ÔÚÏßĞÅÏ¢£©
-Ê±¼ä£º2019Äê4ÔÂ4ÈÕ10:22:10
+åˆ›å»ºæ–°çš„å­˜å‚¨åº“
+echo "# Java-MXObject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dixiaoxian/Java-MXObject.git
+git push -u origin master
+
+ä»å‘½ä»¤è¡Œæ¨é€
+git remote add origin https://github.com/dixiaoxian/Java-MXObject.git
+git push -u origin master
+
+
+ç‰ˆæœ¬ï¼š2019å¹´4æœˆ4æ—¥
+ip_idæ–‡ä»¶
+	ip_id.sh:ç”¨äºæµ‹è¯•pingä¿¡æ¯
+	route.sh + linuxå‘½ä»¤:å¦‚ï¼ˆroute.sh "route -n | grep UG"ï¼‰
+Maxwellè„šæœ¬
+	maxwellçš„å¯åŠ¨è„šæœ¬ï¼Œé˜²æ­¢maxwellæŒ‚æ‰ï¼ˆç±»ä¼¼äºk8sçš„æ•ˆæœï¼‰
+webReturnæ–‡ä»¶
+	è·å¾—ç½‘é¡µçš„è¿”å›å€¼ï¼ˆå¯ç”¨äºæ£€æµ‹ç½‘é¡µåœ¨çº¿ä¿¡æ¯ï¼‰
+æ—¶é—´ï¼š2019å¹´4æœˆ4æ—¥10:22:10
+
